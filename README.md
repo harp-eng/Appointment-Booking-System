@@ -55,4 +55,35 @@ This is a **feature-rich Appointment Booking System** built with **Laravel** for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/appointment-booking-system.git
+   git clone [https://github.com/yourusername/appointment-booking-system.git](https://github.com/harp-eng/Appointment-Booking-System)
+   
+2. Navigate to the project directory:
+   ```bash
+    cd appointment-booking-system
+   
+3. Install backend dependencies:
+   ```bash
+    composer install
+   
+4. Install frontend dependencies:
+    ```bash
+    npm install
+5. Configure the .env file with your database and application settings.
+
+6. Generate the application key:
+    ```bash
+    php artisan key:generate
+    
+7. Run migrations to create the database tables:
+    ```bash
+    php artisan migrate
+8. Build frontend assets:
+    ```bash
+    npm run dev
+9. Start the development server:
+    ```bash
+    php artisan serve
+10. Access the app at:
+    ```bash
+     http://localhost:8000
+
