@@ -55,7 +55,7 @@ This is a **feature-rich Appointment Booking System** built with **Laravel** for
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/appointment-booking-system.git](https://github.com/harp-eng/Appointment-Booking-System)
+   git clone https://github.com/yourusername/appointment-booking-system.git
    
 2. Navigate to the project directory:
    ```bash
